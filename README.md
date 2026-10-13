@@ -13,6 +13,19 @@ quality diagnostics, interactive 3D surfaces, and reproducible batch exports.
 The cover and loaded-workspace screenshots use analytically generated synthetic
 surfaces. No experimental scans or images derived from them are published here.
 
+## Online AFM lab
+
+Open the [Chemitro AFM Web Lab](https://chemitro.ir/afm.php) to analyze NID scans
+and height matrices in your browser. Sign in with your Chemitro account, launch
+the lab and choose a scan or the synthetic demo. Files and results stay on your
+device. The [AFM software page](https://chemitro.ir/software.php?tool=afm-studio)
+is public and includes the DOI and citation.
+
+The web edition includes surface preparation, calibrated profiles/crops,
+roughness, PSD/ACF, particle measurements and local exports. It runs the original
+v0.4.0 core in a worker. See [web adapter documentation](web/README.md) for source,
+runtime requirements and validation.
+
 ## Install and run
 
 Use Python 3.10+. On Windows, run:

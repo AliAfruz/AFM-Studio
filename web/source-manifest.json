@@ -1,0 +1,34 @@
+{
+  "name": "Afruz AFM Studio",
+  "version": "0.4.0",
+  "commit": "08454897c122f60b617d6909029fa94e9cb7ce2a",
+  "doi": "10.5281/zenodo.23348914",
+  "web_adapter_version": "1.0.0",
+  "files": [
+    {
+      "path": "afm_analysis.py",
+      "bytes": 10583,
+      "sha256": "652794aeb4b624d3e5c274b61b4267b17348ec0ccedc9e2d3fb6cd41677cd345"
+    },
+    {
+      "path": "morphology_analysis.py",
+      "bytes": 21795,
+      "sha256": "54875016ef71f83edc01368d892343a4dac3eb8d0315d3913118ef24bc7b12f7"
+    },
+    {
+      "path": "nid_reader.py",
+      "bytes": 9127,
+      "sha256": "4f4b044649fdfef3d69f246dfe97f0a8c84a7c6e57625bbefc6e2d1524df1043"
+    },
+    {
+      "path": "reporting.py",
+      "bytes": 918,
+      "sha256": "c101c3b539e61e55eef347f0bc5a05b4fdb2282519b1d79fb201a774025fc813"
+    },
+    {
+      "path": "examples/synthetic_afm.py",
+      "bytes": 3889,
+      "sha256": "9cad98df55e58be1d55017bd7ff67a32fcfc662c0cf2e2c3be5efe7eecf2f083"
+    }
+  ]
+}

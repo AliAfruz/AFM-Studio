@@ -6,3 +6,7 @@
 *.nid binary
 *.png binary
 *.cff text eol=lf
+*.mjs text eol=lf
+*.css text eol=lf
+*.php text eol=lf
+*.json text eol=lf
