@@ -1,0 +1,3 @@
+# Optional CUDA compute acceleration for NVIDIA RTX cards.
+# The OpenGL 3D viewer does NOT require CuPy and already uses the GPU.
+cupy-cuda12x>=13.0

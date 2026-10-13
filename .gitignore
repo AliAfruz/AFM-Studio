@@ -1,0 +1,33 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mpl-cache/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Local configuration and generated files
+.env
+.env.*
+backups/
+outputs/
+/New folder/
+/*.png
+*_analysis.json
+*_smart_qc.json
+*_particles.csv
+*.xlsx
+*.tif
+*.tiff
+
+# Keep experimental and generated local scans private
+*.nid
+/demo/
+/docs/screenshots/orbit-morphology.png
+
+# OS files
+.DS_Store
+Thumbs.db
