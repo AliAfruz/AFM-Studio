@@ -5,3 +5,4 @@
 *.bat text eol=crlf
 *.nid binary
 *.png binary
+*.cff text eol=lf

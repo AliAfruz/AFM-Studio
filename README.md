@@ -2,6 +2,8 @@
 
 **v0.4.0 · Orbit workspace**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23348914.svg)](https://doi.org/10.5281/zenodo.23348914)
+
 A Python desktop workspace for calibrated atomic force microscopy analysis:
 Nanosurf NID import, topography preparation, roughness, particle metrology,
 quality diagnostics, interactive 3D surfaces, and reproducible batch exports.
@@ -151,4 +153,28 @@ To regenerate the cover:
 python examples/render_github_preview.py
 ```
 
-Zenodo archiving will be handled separately. No record or DOI is claimed for this release.
+## Archive and citation
+
+The **v0.4.0** release is archived on [Zenodo](https://doi.org/10.5281/zenodo.23348914).
+Use its version DOI to identify the exact software release used in your analysis:
+
+> AliAfruz. (2026). *Afruz AFM Studio: Orbit Workspace* (v0.4.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23348914
+
+- **Version DOI (v0.4.0):** [10.5281/zenodo.23348914](https://doi.org/10.5281/zenodo.23348914)
+- **All versions DOI:** [10.5281/zenodo.23348913](https://doi.org/10.5281/zenodo.23348913)
+
+GitHub's **Cite this repository** entry uses [CITATION.cff](CITATION.cff).
+For BibTeX:
+
+```bibtex
+@software{aliafruz_afm_studio_2026,
+  author    = {{AliAfruz}},
+  title     = {Afruz AFM Studio: Orbit Workspace},
+  version   = {v0.4.0},
+  date      = {2026-10-13},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23348914},
+  url       = {https://doi.org/10.5281/zenodo.23348914}
+}
+```

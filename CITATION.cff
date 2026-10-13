@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release below."
+type: software
+title: "Afruz AFM Studio: Orbit Workspace"
+authors:
+  - name: "AliAfruz"
+    website: "https://github.com/AliAfruz"
+version: "v0.4.0"
+date-released: "2026-10-13"
+doi: "10.5281/zenodo.23348914"
+url: "https://doi.org/10.5281/zenodo.23348914"
+repository-code: "https://github.com/AliAfruz/AFM-Studio"
+commit: "08454897c122f60b617d6909029fa94e9cb7ce2a"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23348913"
+    description: "Concept DOI representing all versions of this software."
+abstract: >-
+  Python desktop workspace for atomic force microscopy analysis, with Nanosurf
+  NID import, calibrated topography, robust surface preparation, roughness,
+  particle metrology, physical PSD, quality diagnostics, and batch exports.
+keywords:
+  - atomic force microscopy
+  - AFM
+  - Nanosurf
+  - topography
+  - surface roughness
+  - particle metrology
+  - scientific software

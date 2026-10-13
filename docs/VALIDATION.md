@@ -66,4 +66,6 @@ and some height/volume results relative to v0.3.8. Record the algorithm version
 when comparing results. Lateral sizes remain apparent AFM sizes. Smart QC and
 segmentation recommendations are deterministic heuristics.
 
-No Zenodo record or DOI has been created for this release.
+The v0.4.0 release is archived at [DOI 10.5281/zenodo.23348914](https://doi.org/10.5281/zenodo.23348914).
+The archive links to the v0.4.0 Git tag. Citation documentation was added
+to the main branch after archiving; the release tag is preserved.
